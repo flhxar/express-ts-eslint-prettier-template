@@ -1,4 +1,5 @@
 import express from "express";
+
 import {middleware} from "#middleware/middlewares.js"
 
 const app = express();
